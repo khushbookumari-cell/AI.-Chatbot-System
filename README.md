@@ -1,132 +1,14 @@
-# AI Chatbot System (Java)
+# AI-Chat-Bot
+This repository includes Artificial Intelligence implementation in java language to create chatbot. 
+Chat bot is created in Core Java and Swing Project using Notepad++ editor and Eclipse IDE. 
+Projects can be run on other IDE as command line application. 
+This project includes AI specific reply based on user input, basic type-error detection, text processing and text prediction.
+I intend to improve this project using more use of Natural Language Processing and better Machine Learning Algorithm in future.
 
-Simple Java-based chatbot system.
-AI Chatbot System (Java)
+# Project Details
 
-A simple yet powerful Java-based AI Chatbot System that demonstrates core OOP principles, modular architecture, data analysis, admin configuration, and real-time chatbot interaction. This project is ideal for learning Java, understanding system design, and showcasing software development skills.
+program : chat bot project created using swing and core java concepts.
 
+# Repository Version
 
----
-
-⭐ What This Project Is
-
-This project is a console-based AI Chatbot application built entirely in Java.
-It includes:
-
-✔ User Module – Users can interact with the chatbot and ask queries
-
-✔ Admin Module – Admin can update responses, view logs, improve algorithm
-
-✔ Chatbot Engine – Config-based AI response system
-
-✔ Data Analysis – Shows conversation logs and insights
-
-✔ Modular OOP Architecture – Models, Services, UI layers
-
-✔ Easy to extend (GUI, Spring Boot, Database can be added later)
-
-
-The project is structured using industry standard practices and can be used as a college project or personal portfolio item.
-
-
----
-
-🚀 How to Use
-
-1. Clone or Download
-
-git clone https://github.com/your-username/AI-Chatbot-System.git
-
-2. Open in any Java IDE
-
-Works with:
-
-IntelliJ IDEA
-
-Eclipse
-
-VS Code (Java Extension Pack)
-
-
-3. Run the Project
-
-Open the file:
-
-App.java
-
-Click Run → The main menu will appear:
-
-1. User
-2. Admin
-3. Exit
-
-4. User Module
-
-Select 1
-
-Ask any question
-
-Chatbot responds instantly
-
-Logs are automatically recorded
-
-
-5. Admin Module
-
-Select 2
-
-Update chatbot responses
-
-View analytics of all chats
-
-Improve AI algorithm (simulation)
-
-
-Password is not required (simple version).
-
-
----
-
-🛠 Project Structure
-
-AIChatbotSystem/
-│
-├── model/            → Data classes
-├── service/          → Logic + processing
-├── ui/               → User/Admin interfaces
-└── App.java          → Main file
-
-
----
-
-🤝 How to Contribute
-
-Contributions are welcome!
-Here’s how you can help:
-
-1. Fork the repository
-
-Click the Fork button at the top right.
-
-2. Create a new branch
-
-git checkout -b feature-your-feature-name
-
-3. Make changes and commit
-
-git commit -m "Added new feature"
-
-4. Push your branch
-
-git push origin feature-your-feature-name
-
-5. Open a Pull Request
-
-
-
-
----
-
-📧 Contact
-
-If you like this project or want enhancements, feel free to reach out.
+Github Commit Version: #1.0.0
